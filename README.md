@@ -1,0 +1,2 @@
+# hotelinventoryapp
+Practising Angular
